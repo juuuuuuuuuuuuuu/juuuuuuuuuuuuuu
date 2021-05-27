@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **juuuuuuuuuuuuuu/juuuuuuuuuuuuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +15,6 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=juujeong's%20GitHub&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=juuyoung's%20GitHub&fontSize=70&animation=scaleIn)
 
+![juuyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=juuyoung&show_icons=true)
