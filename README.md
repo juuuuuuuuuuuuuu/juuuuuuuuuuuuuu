@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=juuyoung's%20GitHub&fontSize=70&animation=scaleIn)
-
 ![juuyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=juuyoung&show_icons=true)
+
